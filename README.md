@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi, I’m Prasath S R — an aspiring Software Engineer passionate about building scalable applications and solving real-world problems using Java, Spring Boot, MySQL, and AWS.<br><br>I enjoy working on full-stack development, cloud solutions, and energy-efficient engineering projects. I’ve built systems ranging from movie-ticket booking web apps to IoT-based smart street lighting.<br><br>💡 Always learning. Always building.<br>🚀 Exploring software development, cloud computing & financial engineering.<br><br>Tech Stack: Java | Spring Boot | React | MySQL | AWS | C++
+<br>👋 Hi, I’m Prasath S R — an aspiring Software Engineer passionate about building scalable applications and solving real-world problems using Java, Spring Boot, MySQL, and AWS.<br><br>I enjoy working on full-stack development, cloud solutions, and energy-efficient engineering projects. I’ve built systems ranging from movie-ticket booking web apps to IoT-based smart street lighting.<br><br>💡 Always learning. Always building.<br>🚀 Exploring software development, cloud computing & financial engineering.<br><br>Tech Stack: Java | Spring Boot | React | MySQL | AWS | C++ | IoT
  
  
 ## 🌐 Socials:
