@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Prasath-SR&theme=radical&no-frame=false&no-bg=true&margin-w=4)
  
-### ✍️ Random Dev Quote
+### ✍️ Idealogy
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Never%20Give%20Up%20because%20Great%20things%20take%20time)
  
 ### 🔝 Top Contributed Repo
