@@ -15,8 +15,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Prasath-SR&theme=radical&no-frame=false&no-bg=true&margin-w=4)
  
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️  Dev Quote
+![]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"e=Never%20give%20up%20because%20great%20things%20great%20time&image=/mnt/data/Prasath%20Resume%20new%20.pdf))
  
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Prasath-SR&limit=5&theme=dark&combine_all_yearly_contributions=true)
